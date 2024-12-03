@@ -1,5 +1,5 @@
 mod days;
-use days::day01::find_solution;
+use days::day02::find_solution;
 fn main(){
    find_solution();
 }
